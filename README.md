@@ -1,10 +1,11 @@
 ## Hi there 👋
 I'm Joseph! A Data Scientist and ML Engineer with an academic education in Spatial Development Engineering and an extensive knowledge of GIS technologies.
 
-### About me 🔭
+### About me 💡
 I started my career working with image data containing geographic information and I am highly aware of sensor geometries and the impact they have on spatial accuracy.
 
-Now, I am interested in developing solutions utilizing all kinds of data sources and I'm experienced in encoding all sorts of information for model consumption.
+Now, I am interested in designing and developing solutions utilizing all kinds of data sources in other domains, and I'm experienced in encoding all sorts of information for model consumption.
+
 
 <!--
 **JosephDoun/JosephDoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
