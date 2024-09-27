@@ -4,8 +4,9 @@ I'm Joseph! A Data Scientist and ML Engineer with an academic education in Spati
 ### About me 💡
 I started my career working with image data containing geographic information and I am highly aware of sensor geometries and the impact they have on spatial accuracy.
 
-Now, I am interested in designing and developing solutions utilizing all kinds of data sources in other domains, and I'm experienced in encoding all sorts of information for model consumption.
+Lately, I am interested in designing and developing solutions utilizing all kinds of data sources in other domains, and I'm experienced in encoding all sorts of information for model consumption.
 
+- 🔭 I’m currently working on msi2slstr, a prototype data-fusion python package for satellite images of the Copernicus programme.
 
 <!--
 **JosephDoun/JosephDoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
