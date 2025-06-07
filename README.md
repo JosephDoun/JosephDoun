@@ -32,7 +32,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<div align=center >
+<img src=https://github-readme-stats.vercel.app/api?username=josephdoun&theme=graywhite&show_icons=true&hide_border=false&count_private=true/>
+<img src=https://github-readme-streak-stats.herokuapp.com/?user=josephdoun&theme=graywhite&hide_border=false)/>
+</div>
 
-
-
-![](https://komarev.com/ghpvc/?username=josephdoun&abbreviated=true&style=flat&label=Hype&color=grey)
+<div align=center>
+<img src="https://komarev.com/ghpvc/?username=josephdoun&abbreviated=true&style=flat&label=Hype&color=grey" />
+</div>
