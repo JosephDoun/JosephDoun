@@ -11,7 +11,7 @@ Lately, I am interested in designing and developing solutions utilizing all kind
 ---
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,python,typescript,cpp,react,postgres,nextjs,bash,docker,vim,&perline=15" />
+    <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,python,typescript,cpp,react,postgres,nextjs,bash,docker,vim,aws&perline=15" />
   </a>
 </p>
 ---
