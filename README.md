@@ -1,12 +1,5 @@
 ## Hi there 👋
-I'm Joseph! A Data Scientist and ML Engineer with an academic education in Spatial Development Engineering and an extensive knowledge of GIS technologies.
-
-### About me 💡
-I started my career working with image data containing geographic information and I am highly aware of sensor geometries and the impact they have on spatial accuracy.
-
-Lately, I am interested in designing and developing solutions utilizing all kinds of data sources in other domains, and I'm experienced in encoding all sorts of information for model consumption.
-
-- 🔭 I’m currently working on msi2slstr, a prototype data-fusion python package for satellite images of the Copernicus programme.
+I'm Joseph! A Data Scientist with an academic education in Spatial Development Engineering and a detailed knowledge of GIS technologies and applications. I'm particularly good at building automated mapping solutions using remotely sensed data.
 
 ---
 <p align="center">
